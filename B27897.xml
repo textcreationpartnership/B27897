@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The patient hushand [sic], and the scoulding vvife, shewing how he doth complain of hard fortune he had to marry such a cross-grain'd q[u]ean as she was and he wishes all young men to be advised to look before they leap. You batchellors where ere you be this counsel here now take of me chuse not a wife that too percise [sic] for fear she should p[r]ick out your eyes. To the tune of, Bonny bonny bird.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27897</idno><idno type="EEBO-CITATION">99884629</idno>
+  <idno type="VID">192659</idno>
+  <idno type="EEBO-PROQUEST">2248520804</idno>
+  
+            <idno type="STC">Wing P720</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[100]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[101]</idno>
+            <idno type="STC">ESTC R216081</idno>
+            <idno type="PROQUEST">ocm99884629</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884629e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27897)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192659)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:1[60])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The patient hushand [sic], and the scoulding vvife, shewing how he doth complain of hard fortune he had to marry such a cross-grain'd q[u]ean as she was and he wishes all young men to be advised to look before they leap. You batchellors where ere you be this counsel here now take of me chuse not a wife that too percise [sic] for fear she should p[r]ick out your eyes. To the tune of, Bonny bonny bird.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Thackeray at the Golden Sugar-Loaf in Duck-Lane,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1665?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing CD-ROM, 1996.</note>
+                  <note>Verse: "All you gallants in city or town".</note>
+                  <note>Copy cut and mounted.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:192659:1"/>
+            <head>The Patient Hushand, and the Scoulding VVife, Shewing how he doth complain of hard fortune he had to marry such a cross grain'd Q<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>an as she was and he wishes all young men to be advised to look before they l<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>p.</head>
+            <epigraph>
+               <q>
+                  <lg>
+                     <l>You Batchellors where ere you be</l>
+                     <l>This Counse<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l here now take of me</l>
+                     <l>Chu<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e not a wife that <gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> too pe<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cise</l>
+                     <l>For fear she should p<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uck ou<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> your eyes.</l>
+                  </lg>
+               </q>
+            </epigraph>
+            <opener>To the Tune of, Bonny bonny bird.</opener>
+            <p>
+               <figure>
+                  <figDesc>a man</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>a woman</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>ALl you gallants in City or Town▪</l>
+               <l>come listen a while to my song</l>
+               <l>To you ile relate with séeking a mats</l>
+               <l>
+                  <hi>how that I my self a done wrong brave boys</hi>
+               </l>
+               <l>
+                  <hi>how that I my self a done wrong.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When as I was single as some of you be</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I was beloved like other young men,</l>
+               <l>
+                  <hi>I</hi> liv'd at my ease and I did what I pleass</l>
+               <l>
+                  <hi>and the world it went well with me then brave boys</hi>
+               </l>
+               <l>
+                  <hi>and the world it went well with me then</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> could kiss a young M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sd<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> she'd never séem coy</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and sometimes she w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld ki<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s me again,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id perhaps at the last I c<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ld not her a boy</l>
+               <l>
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the world it went well with me then, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thus bravely I liv'd without any contr<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </l>
+               <l>and had <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lver good store lying by,</l>
+               <l>
+                  <hi>I</hi> could sing &amp; be merry drink White wine &amp; sherry▪</l>
+               <l>
+                  <hi>then who but sweet William and I, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Yet I could not be con<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent but a w<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing i'd go</l>
+               <l>to get me a Wife of my own,</l>
+               <l>I get one at the l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st but she <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ves a shrow</l>
+               <l>
+                  <hi>and sets horns where there never was none brave boys</hi>
+               </l>
+               <l>
+                  <hi>and &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I married in hast but at lea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure repent</l>
+               <l>I would be s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fool'd by a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>if<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</l>
+               <l>She'l pout and s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e'l l<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er she'l frown and look sower</l>
+               <l>
+                  <hi>then I dare not stir for my life b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ave boys</hi>
+               </l>
+               <l>
+                  <hi>then, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:192659:1"/>
+               <l>WH<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n I went to Church I was led by two M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ids</l>
+               <l>and the M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sick did play galla<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tly,</l>
+               <l>My Wife she did dance and her <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <hi>and she skipt up and down like a fly, brave boys</hi>
+               </l>
+               <l>
+                  <hi>and the, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But e're we'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> béen married one mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th to an <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd</l>
+               <l>to se<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h my Pockets she st<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> w<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s be an,</l>
+               <l>Sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> took mē by <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he ear<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and she <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>nt<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>s</l>
+               <l>
+                  <hi>oh the world it went ill with me then, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>She turn'd me about and she gave me a ro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</l>
+               <l>such a on<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as I <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> had b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>for<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>Her hands wer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> so quick my s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> she did lick</l>
+               <l>
+                  <hi>and did bear me till I did roar, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The more I did pray y<seg rend="sup">t</seg>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hase storms they might cease</l>
+               <l>the lon<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er I think <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey did <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ife,</l>
+               <l>The mor<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I did pray that we migh<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> live in peace</l>
+               <l>
+                  <hi>the more mischief she sti<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l did devise, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If that in an Ale-house I chanse for to pay</l>
+               <l>then presently comes all my fea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</l>
+               <l>I'a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> sure to have blo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s also bitter Oaths,</l>
+               <l>
+                  <hi>If I be not wrung by the ears, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>One day we'd about, and I held h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r too't</l>
+               <l>till with the Lad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e she broke all my <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ose,</l>
+               <l>Nay worse then all this, m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ist,</l>
+               <l>
+                  <hi>and in truth I befowl'd both my hose, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Surely the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'s no man that liveth on earth</l>
+               <l>that hath such a cross wife as she,</l>
+               <l>Which makes me to swear, young men haven care</l>
+               <l>
+                  <hi>for the case it is alter'd with me, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thrice ha<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he that hath a good wife</l>
+               <l>but far better's that young man</l>
+               <l>Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t settel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> himself to live a si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gle life</l>
+               <l>
+                  <hi>then would I was unmarried again, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For these <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s are so false a man can't them trust</l>
+               <l>and so much they are given to lies,</l>
+               <l>If a man he don't please them at every turn</l>
+               <l>
+                  <hi>then they'r ready to pluck out his eyes, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>They'l kick fling &amp; throw, they'l fret &amp; they'l <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>own</l>
+               <l>as i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was going mad you won'd sw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar</l>
+               <l>And some Girls on their bellies more means will consume</l>
+               <l>
+                  <hi>in one week than they'l get in a year, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The afore honest young men had néed to beware</l>
+               <l>for my part my own ruine i'be brough<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>And of flattering Damsels to have a grea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> care▪</l>
+               <l>
+                  <hi>for wits never good till 'tis bought, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> why experience <hi>I</hi> plainly do find</l>
+               <l>what troubles some men do uph<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r'd</l>
+               <l>That hath a cross wife he's ne're sure of his life▪</l>
+               <l>
+                  <hi>to live quiet in bed nor at board, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> she hant her humour in every thing</l>
+               <l>then his head with the Lad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e she'l g<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>et,</l>
+               <l>And at night <hi>I</hi> suppose if he dont loss<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> close</l>
+               <l>
+                  <hi>then she▪l kick him out at the beds feet, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>So Batchellors all now my leave Ile take</l>
+               <l>this counsell is good for all honest young men</l>
+               <l>If I was shut of this q<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ean you know what <hi>I</hi> mean</l>
+               <l>
+                  <hi>oh the world wou▪d go well with me than, brave boys</hi>
+               </l>
+               <l>
+                  <hi>oh the world wou'd go well with me then.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for W. Thackeray at the Golden Sugar-Loaf in Duck-Lane.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
